@@ -19,7 +19,6 @@
 Τρέξε το Main.java για να ξεκινήσει η εφαρμογή.
 
 ## Database Photos
-<img width="548" height="434" alt="Screenshot (299)" src="https://github.com/user-attachments/assets/7675827e-a9c3-4f0a-82a6-6f59664fccee" />
 <img width="557" height="588" alt="Screenshot (300)" src="https://github.com/user-attachments/assets/aaa12830-7844-4e45-8a0f-bed1822680e7" />
 <img width="582" height="203" alt="Screenshot (307)" src="https://github.com/user-attachments/assets/c8bda4a0-18b1-4af7-8d8e-35efab2bcd07" />
 
